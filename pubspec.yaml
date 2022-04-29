@@ -1,0 +1,24 @@
+# Copyright 2022 The RateAppInit Author. All rights reserved.
+# Use of this source code is governed by a MIT-style license that
+# can be found in the LICENSE file.
+
+name: rate_app_init
+description: Flutter package that provides a widget that allows initializing the 'rate_my_app' plugin easily.
+version: 1.0.0
+homepage: null
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: ">=1.12.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  rate_my_app: ^1.1.2
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter: null
